@@ -1,7 +1,7 @@
-package data;
+package expense.data;
 
-import models.Expense;
-import models.User;
+import expense.models.Expense;
+import expense.models.User;
 
 import java.util.*;
 

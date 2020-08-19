@@ -1,8 +1,9 @@
-import data.ExpenseData;
-import data.UserData;
-import models.Expense;
-import models.User;
-import service.ExpenseService;
+package expense;
+
+import expense.data.ExpenseData;
+import expense.data.UserData;
+import expense.models.User;
+import expense.service.ExpenseService;
 
 import java.io.BufferedReader;
 import java.io.IOException;

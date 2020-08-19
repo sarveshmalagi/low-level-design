@@ -1,10 +1,10 @@
-package service;
+package expense.service;
 
-import data.ExpenseData;
-import data.UserData;
-import models.Expense;
-import models.ExpenseBuilder;
-import models.User;
+import expense.data.ExpenseData;
+import expense.data.UserData;
+import expense.models.Expense;
+import expense.models.ExpenseBuilder;
+import expense.models.User;
 
 import java.util.Map;
 import java.util.Optional;

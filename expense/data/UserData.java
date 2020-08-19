@@ -1,6 +1,6 @@
-package data;
+package expense.data;
 
-import models.User;
+import expense.models.User;
 
 import java.util.*;
 

@@ -1,11 +1,9 @@
-package models;
+package expense.models;
 
-import data.UserData;
+import expense.data.UserData;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class ExpenseBuilder {
 

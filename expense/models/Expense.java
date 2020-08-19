@@ -1,4 +1,4 @@
-package models;
+package expense.models;
 
 import java.util.List;
 import java.util.Map;

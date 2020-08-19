@@ -1,4 +1,4 @@
-package models;
+package expense.models;
 
 public class Split {
 
